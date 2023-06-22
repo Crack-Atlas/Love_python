@@ -1,2 +1,1 @@
-# Love_python
-Mohamedbougrina 
+pip install requests 
